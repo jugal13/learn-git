@@ -21,3 +21,7 @@ Learn Git
 10. [Git, Github Udacity](https://www.udacity.com/course/version-control-with-git--ud123) - https://www.udacity.com/course/version-control-with-git--ud123
 
 11. [Git, Github Udacity](https://www.youtube.com/playlist?list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - https://www.youtube.com/playlist?list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ
+
+12. [Git Github for first timers](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-u7vuNnLvKi11rh7b68yCSQ) - https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-u7vuNnLvKi11rh7b68yCSQ
+
+13. [GitBash for Windows](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-sluHvle9XbOBPekPEhMLng) - https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-sluHvle9XbOBPekPEhMLng
